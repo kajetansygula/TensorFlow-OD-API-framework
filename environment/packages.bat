@@ -29,3 +29,7 @@ pip install tf_slim
 :: Install gin
 pip install gin
 pip install gin-config
+
+:: Install Google Image downloader
+pip install simple_image_download
+ 
